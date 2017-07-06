@@ -7,7 +7,7 @@ A library which uses Google Fonts API to change fonts of web pages quickly !
 
 ### About 
 <strong>GFont</strong> is a very small &amp; tiny library which changes the base font of any web page with Google Fonts API. 
-It is extremely small considering the size but handy. 
+The main aim of this project was to  practice JSON and AJAX. It is extremely small considering the size but handy. 
 
 <br>
 
